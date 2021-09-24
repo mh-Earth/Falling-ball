@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - upBoxcollaider
+  - downBoxCollaider
+  - Opticals
+  - leftBoxCollaider
+  - rightBoxCollaider
+  - pins
+  - score
+  - groundPins
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: opticals
+    uniqueID: 2880974651
+    locked: 0
+  - name: ui
+    uniqueID: 3019819323
+    locked: 0
+  - name: player
+    uniqueID: 3213955055
+    locked: 0
